@@ -12,7 +12,7 @@ var DayView = Backbone.View.extend ({
 	},
 	
 	preview: function () {
-		var purchasesView = new PurchasesView({collection: this.model.purchases});
+		var dayInfoView = new DayInfoView({model: this.model}),
+			purchasesView = new PurchasesView({collection: this.model.purchases});
 	}
-
 });

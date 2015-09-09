@@ -17,7 +17,12 @@
             <button class = "edit">edit</button><button class = "close">close</button>
         </script>
 
-        <script type="text/template" id = "edit_template">
+		<script type = "text/template" id = "day-info-template">
+			<label><%= day %> Purchases</label>
+			<button class = "btn btn-primary" id = "popup">Add Purchase</button>
+		</script>
+		
+        <script type="text/template" id = "raw_template">
             <td class = "line"> <%= productName %></td>
             <td class = "line"> <%= storeName %></td>
             <td class = "line"> <%= description %></div>
@@ -27,6 +32,7 @@
 		<script src = "1.js"></script>
         <script src = "Day.js"></script>
         <script src = "Days.js"></script>
+		<script src = "DayInfo.js"></script>
 		<script src = "Purchase.js"></script>
 		<script src = "Purchases.js"></script>
 		<script src = "PurchasesView.js"></script>
@@ -43,15 +49,21 @@
     </head>
     <body>
 	    <div class = "container">
-			<div class = "col-md-4">
+			<div class = "col-md-3 col-sm-3">
 				<div class = "table ">
 					<div class = "head">Purchase Manager</div>
 					<ul id = "list" class = "list"></ul> 
 				</div>
 			</div>	
 			<div class = "col-md-7">
-				<div id = "container">
-					<div class = "head">Purchase Manager</div>
+				<div id = "purchase-container">
+					<div class = "head">Purchase Manager
+						
+					</div>
+					<div class = "day-info">
+					    
+					</div>
+					
 					<table class = "table-striped">
 						<thead>
 							<th class = "col-md-3">Purchase Name</th>

@@ -2,7 +2,9 @@ var AppView = Backbone.View.extend ({
 	el: $("#list"),
 
 	initialize: function () {
-	    var purchasesView = new PurchasesView({collection: this.collection[0].purchases});
+	    var purchasesView = new PurchasesView({collection: this.collection[0].purchases}),
+		dayInfoView = new DayInfoView({model: this.collection[0]});
+		
 		this.render();	
 	},
 

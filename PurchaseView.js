@@ -1,8 +1,8 @@
 var PurchaseView = Backbone.View.extend ({
 	tagName: "tr",
-	template: _.template($("#edit_template").html()),
 	
-	//template: _.template("<%= productName %> <%= storeName %> <%= description %> <%= price %>"),
+	template: _.template($("#raw_template").html()),
+	
     className: "purchase-item",
 
 	initialize: function () {
