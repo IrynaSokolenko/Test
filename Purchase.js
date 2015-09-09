@@ -1,0 +1,1 @@
+var Purchase = Backbone.Model.extend({});

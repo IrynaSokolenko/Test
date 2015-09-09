@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Purchase Manager</title>
+        <meta charset="utf-8">
+     
+        <script src = "library/jquery.js"></script>
+        <script src = "library/underscore-min.js"></script>
+        <script src = "library/backbone-min.js"></script>
+        <script src = "library/backbone-mediator.js"></script>
+        <script>window.mediatore = _.extend({}, Backbone.Events);</script>
+
+        <script type="text/template" id = "preview_template">
+            <div class = "line">Name: <%= name %></div>
+            <div class = "line">Age: <%= age %></div>
+            <div class = "line">Gender: <%= gender %></div>
+            <button class = "edit">edit</button><button class = "close">close</button>
+        </script>
+
+        <script type="text/template" id = "edit_template">
+            <td class = "line"> <%= productName %></td>
+            <td class = "line"> <%= storeName %></td>
+            <td class = "line"> <%= description %></div>
+			<td class = "line"> <%= price %></div>
+            <button class = "delete">delete</button>
+        </script>
+		<script src = "1.js"></script>
+        <script src = "Day.js"></script>
+        <script src = "Days.js"></script>
+		<script src = "Purchase.js"></script>
+		<script src = "Purchases.js"></script>
+		<script src = "PurchasesView.js"></script>
+		<script src = "PurchaseView.js"></script>
+		<script src = "DayView.js"></script>
+		
+        <script src = "AppView.js"></script>
+        <script src = "main.js"></script>
+
+		<link href = "library/css/bootstrap.css" rel="stylesheet" type="text/css">
+        <link href="http://fonts.googleapis.com/css?family=Roboto:400,300" rel="stylesheet" type="text/css">
+        <link href='http://fonts.googleapis.com/css?family=Arvo:700' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body>
+	    <div class = "container">
+			<div class = "col-md-4">
+				<div class = "table ">
+					<div class = "head">Purchase Manager</div>
+					<ul id = "list" class = "list"></ul> 
+				</div>
+			</div>	
+			<div class = "col-md-7">
+				<div id = "container">
+					<div class = "head">Purchase Manager</div>
+					<table class = "table-striped">
+						<thead>
+							<th class = "col-md-3">Purchase Name</th>
+							<th class = "col-md-3">Store Name</th>
+							<th class = "col-md-3">Description</th>
+							<th class = "col-md-3">Price</th>
+						</thead>
+						<tbody class = "purchase-list">
+						
+						</tbody>
+					</table>
+				</div>
+			</div>      
+		</div>
+    </body> 
+</html>
