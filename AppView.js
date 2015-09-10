@@ -1,18 +1,38 @@
-var AppView = Backbone.View.extend ({
-	el: $("#list"),
+var CollectionView = Backbone.View.extend({
+    tagName: 'li',
 
-	initialize: function () {
-	    var purchasesView = new PurchasesView({collection: this.collection[0].purchases}),
-		dayInfoView = new DayInfoView({model: this.collection[0]});
-		
-		this.render();	
-	},
+    html: '<li data-name="day"></li>',
 
-	render: function () {
-        _.each(this.collection, function (day) {
-			var day_view = new DayView({model: day});
-			$("#list").append(day_view.render().el);			
-		});
-		
-	}
+    _modelBinder: undefined,
+
+    initialize: function(){
+        this._modelBinder = new Backbone.ModelBinder();
+
+    },
+
+    events: {
+      "click": "changeDay"
+    },
+
+    render: function(){
+        this.$el.html(this.html);
+        this._modelBinder.bind(this.model, this.el, Backbone.ModelBinder.createDefaultBindings(this.el, 'data-name'));
+        return this;
+    },
+
+    changeDay: function (){
+        $('tbody').html('');
+        var purchasesCollection = new Purchases((this.model.toJSON()).purchases);
+        console.log(purchasesCollection);
+        var viewCreator = function(model){
+            return new PurchasesView({model: model});
+        };
+
+        var elManagerFactory = new Backbone.CollectionBinder.ViewManagerFactory(viewCreator);
+
+        var collectionBinder = new Backbone.CollectionBinder(elManagerFactory);
+        collectionBinder.bind(purchasesCollection, $('tbody'));
+        //var purchasesView = new PurchasesView({collection: this.model.purchases})
+
+    }
 });

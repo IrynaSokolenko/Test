@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b574741d-e845-427b-a73c-b4001db1a39b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/close-button.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/close_button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/Backbone.CollectionBinder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/Backbone.CollectionBinder.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/Backbone.ModelBinder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/Backbone.ModelBinder.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/examples/CollectionBinder_Example1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/examples/CollectionBinder_Example2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/examples/CollectionBinder_sorted.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/sandbox/ConvertDataBindToModelBinder.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/examples/Example1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/examples/Example2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/examples/Example3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/examples/Example_BindToImageSrc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/examples/Example_ContentEditable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/sandbox/Example_NestedAttributes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PopupView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/helpers/SpecHelper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/SpecRunner.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Test.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/backbone-mediator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/backbone-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/lib/backbone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/checkboxConventionBindings.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/configurableBindingAttributes.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/configureAllBindingAttributes.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/contentEditableSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/coreBinder.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/cssBindingSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/customConvention.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/sandbox/deep-model.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/defaultBindings.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/globalConfiguraAllBindingAttributes.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/globalConfigurableBindingAttributes.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/html5inputConventionBinding.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/support/jasmine-standalone/jasmine-html.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/helpers/jasmine-jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/support/jasmine-standalone/jasmine.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/support/jasmine-standalone/jasmine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/support/jasmine.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/support/jasmine_config.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/support/jasmine_runner.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/lib/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/modelUnbinding.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/nestedModelBinding.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/oneElementToMultipleAttributes.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/radioButtonConventionBinding.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/helpers/sample.backbone.app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/selectboxConventionBindings.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/selectorBinding.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/CollectionBinder/sorting.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/textareaConventionBinding.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/textboxConventionBinding.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/underscore-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/lib/underscore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\library\backbone-mediator.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\library\backbone-min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\library\css\bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\library\css\bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\library\css\bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\library\css\bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\library\css\bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\library\css\bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\library\fonts\glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\library\fonts\glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\library\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\library\fonts\glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\library\fonts\glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\library\jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\library\js\bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\library\js\bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\library\js\npm.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\library\underscore-min.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AppView.js" afterPath="$PROJECT_DIR$/AppView.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Purchase.js" afterPath="$PROJECT_DIR$/Purchase.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Purchases.js" afterPath="$PROJECT_DIR$/Purchases.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PurchasesView.js" afterPath="$PROJECT_DIR$/PurchasesView.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.js" afterPath="$PROJECT_DIR$/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
+    </list>
+    <ignored path="Test.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Test" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="31.884615" vertical-offset="1203" max-vertical-offset="2074">
+              <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Purchase.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Purchase.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+              <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3417">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
+              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PopupView.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PopupView.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
+              <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Purchases.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Purchases.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="136">
+              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Days.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Days.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
+              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppView.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AppView.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
+              <caret line="19" column="20" selection-start-line="18" selection-start-column="118" selection-end-line="19" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PurchasesView.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PurchasesView.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3411371" vertical-offset="0" max-vertical-offset="897">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CollectionBinder_Example1.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/Backbone.ModelBinder/examples/CollectionBinder_Example1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.074074" vertical-offset="459" max-vertical-offset="2125">
+              <caret line="59" column="26" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/AppView.js" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/Purchases.js" />
+        <option value="$PROJECT_DIR$/Purchase.js" />
+        <option value="$PROJECT_DIR$/main.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/PopupView.js" />
+        <option value="$PROJECT_DIR$/PurchasesView.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\isokol\Downloads\HomeManager\Test" />
+      <recent name="C:\Users\isokol\Downloads\HomeManager\Test\lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="name" value="Dart" />
+      <option name="saveOutputToFile" value="false" />
+      <option name="showConsoleOnStdErr" value="false" />
+      <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b574741d-e845-427b-a73c-b4001db1a39b" name="Default" comment="" />
+      <created>1441876477442</created>
+      <updated>1441876477442</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lib/Backbone.ModelBinder/lib/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="884">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Backbone.ModelBinder/examples/Example2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2312">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1433223280000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Backbone.ModelBinder/examples/CollectionBinder_sorted.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.7692308" vertical-offset="98" max-vertical-offset="2448">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Backbone.ModelBinder/examples/Example3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="29.423077" vertical-offset="765" max-vertical-offset="2346">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Backbone.ModelBinder/examples/Example1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1326">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1433223280000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Backbone.ModelBinder/examples/CollectionBinder_Example2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.5223881" vertical-offset="1326" max-vertical-offset="2516">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Backbone.ModelBinder/examples/CollectionBinder_Example1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.074074" vertical-offset="459" max-vertical-offset="2125">
+          <caret line="59" column="26" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3417">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
+          <caret line="19" column="20" selection-start-line="18" selection-start-column="118" selection-end-line="19" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Days.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="31.884615" vertical-offset="1203" max-vertical-offset="2074">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Purchase.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Purchases.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="136">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PopupView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
+          <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PurchasesView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3411371" vertical-offset="0" max-vertical-offset="897">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

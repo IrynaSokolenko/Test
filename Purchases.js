@@ -1,3 +1,3 @@
 var Purchases = Backbone.Collection.extend({
-	model: Purchase 
+    model: Purchase
 });

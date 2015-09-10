@@ -4,35 +4,66 @@
         <title>Purchase Manager</title>
         <meta charset="utf-8">
      
-        <script src = "library/jquery.js"></script>
-        <script src = "library/underscore-min.js"></script>
-        <script src = "library/backbone-min.js"></script>
-        <script src = "library/backbone-mediator.js"></script>
+        <script src = "lib/jquery.js"></script>
+        <script src = "lib/underscore-min.js"></script>
+        <script src = "lib/backbone-min.js"></script>
+        <script src = "lib/backbone-mediator.js"></script>
         <script>window.mediatore = _.extend({}, Backbone.Events);</script>
+        <script type="text/javascript" src="lib/Backbone.ModelBinder/Backbone.ModelBinder.js"></script>
+        <script type="text/javascript" src="lib/Backbone.ModelBinder/Backbone.CollectionBinder.js"></script>
 
-        <script type="text/template" id = "preview_template">
-            <div class = "line">Name: <%= name %></div>
-            <div class = "line">Age: <%= age %></div>
-            <div class = "line">Gender: <%= gender %></div>
-            <button class = "edit">edit</button><button class = "close">close</button>
-        </script>
 
 		<script type = "text/template" id = "day-info-template">
-			<label><%= day %> Purchases</label>
-			<button class = "btn btn-primary" id = "popup">Add Purchase</button>
+			<label><%= day %> Purchases </label>
+			<button class = "btn btn-primary" id = "popup-open">Add Purchase</button>
 		</script>
+
+        <script id="popup-template" type="text/template">
+            <div class="title details-header">
+                <h1>Add Purchase</h1>
+            </div>
+            <div class="popup-close"></div>
+            <div class = "content" >
+                <div class = "col-md-4">
+                    <label>Purchase name</label>
+                    <input class = "form-control" placeholder = "Enter purchase name" id = "purchaseName"/>
+                </div>
+                <div class = "col-md-4">
+                    <label>Store name</label>
+                    <input class = "form-control" placeholder = "Enter store name" id = "storeName" />
+                </div>
+                <div class = "col-md-4">
+                    <label>Price</label>
+                    <div class="input-group">
+                        <span class="input-group-addon">$</span>
+                        <input class = "form-control" placeholder = "0.00" id = "price" />
+
+                    </div>
+
+
+                </div>
+                <div class = "col-md-12 description">Description
+                    <textarea class = "col-md-12" placeholder = "Enter purchase description" id = "description"></textarea>
+                </div>
+            </div>
+            <div class = "footer details-footer col-md-12">
+                <button class = "btn btn-primary" id = "add-popup">Add</button>
+                <button class = "btn btn-default" id = "cancel-popup">Cancel</button>
+            </div>
+        </script>
 		
         <script type="text/template" id = "raw_template">
-            <td class = "line"> <%= productName %></td>
-            <td class = "line"> <%= storeName %></td>
-            <td class = "line"> <%= description %></div>
-			<td class = "line"> <%= price %></div>
+            <td class = "line"> <%= productName %> </td>
+            <td class = "line"> <%= storeName %> </td>
+            <td class = "line"> <%= description %> </td>
+			<td class = "line"> <%= price %> </td>
             <button class = "delete">delete</button>
         </script>
 		<script src = "1.js"></script>
         <script src = "Day.js"></script>
         <script src = "Days.js"></script>
 		<script src = "DayInfo.js"></script>
+        <script src = "PopupView.js"></script>
 		<script src = "Purchase.js"></script>
 		<script src = "Purchases.js"></script>
 		<script src = "PurchasesView.js"></script>
@@ -42,41 +73,45 @@
         <script src = "AppView.js"></script>
         <script src = "main.js"></script>
 
-		<link href = "library/css/bootstrap.css" rel="stylesheet" type="text/css">
+		<link href = "lib/css/bootstrap.css" rel="stylesheet" type="text/css">
         <link href="http://fonts.googleapis.com/css?family=Roboto:400,300" rel="stylesheet" type="text/css">
         <link href='http://fonts.googleapis.com/css?family=Arvo:700' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" type="text/css" href="style.css">
     </head>
     <body>
-	    <div class = "container">
-			<div class = "col-md-3 col-sm-3">
-				<div class = "table ">
-					<div class = "head">Purchase Manager</div>
-					<ul id = "list" class = "list"></ul> 
-				</div>
+	    <div class = "purchase-manager container-fluid">
+            <div class = "col-md-12 navbar-purchase">Purchases</div>
+			<div class = "days-container col-md-3">
+
+                    <label class = "">Purchases by day</label>
+					<ul id = "list" class = "list">
+
+					</ul>
+
 			</div>	
-			<div class = "col-md-7">
-				<div id = "purchase-container">
-					<div class = "head">Purchase Manager
-						
+			<div class = "col-md-9 purchase-container">
+				<div id = "flex">
+					<div class = "day-info"><label>Purchase Manager</label>
+						<button type = "button" class = "btn btn-primary pull-right add-purchase" id = "popup">Add Purchase</button>
 					</div>
-					<div class = "day-info">
-					    
-					</div>
-					
-					<table class = "table-striped">
+
+                    <div class = "table-container col-md-12">
+					<table class = "table table-striped purchases-list">
 						<thead>
-							<th class = "col-md-3">Purchase Name</th>
-							<th class = "col-md-3">Store Name</th>
-							<th class = "col-md-3">Description</th>
-							<th class = "col-md-3">Price</th>
+							<th class = "col-md-2">Purchase Name</th>
+							<th class = "col-md-2">Store Name</th>
+							<th class = "col-md-2">Description</th>
+							<th class = "col-md-2">Price</th>
+                            <th class = "col-md-2"></th>
 						</thead>
 						<tbody class = "purchase-list">
 						
 						</tbody>
 					</table>
+                    </div>
 				</div>
-			</div>      
+			</div>
+
 		</div>
     </body> 
 </html>
