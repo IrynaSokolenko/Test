@@ -2,86 +2,320 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b574741d-e845-427b-a73c-b4001db1a39b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/close-button.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/close_button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/Backbone.CollectionBinder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/Backbone.CollectionBinder.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/Backbone.ModelBinder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/Backbone.ModelBinder.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/examples/CollectionBinder_Example1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/examples/CollectionBinder_Example2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/examples/CollectionBinder_sorted.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/sandbox/ConvertDataBindToModelBinder.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/examples/Example1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/examples/Example2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/examples/Example3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/examples/Example_BindToImageSrc.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/examples/Example_ContentEditable.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/sandbox/Example_NestedAttributes.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PopupView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/helpers/SpecHelper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/SpecRunner.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Test.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/backbone-mediator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/backbone-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/lib/backbone.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/checkboxConventionBindings.spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/component.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/configurableBindingAttributes.spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/configureAllBindingAttributes.spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/contentEditableSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/coreBinder.spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/cssBindingSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/customConvention.spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/sandbox/deep-model.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/defaultBindings.spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/globalConfiguraAllBindingAttributes.spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/globalConfigurableBindingAttributes.spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/html5inputConventionBinding.spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/support/jasmine-standalone/jasmine-html.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/helpers/jasmine-jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/support/jasmine-standalone/jasmine.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/support/jasmine-standalone/jasmine.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/support/jasmine.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/support/jasmine_config.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/support/jasmine_runner.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/lib/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/modelUnbinding.spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/nestedModelBinding.spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/oneElementToMultipleAttributes.spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/radioButtonConventionBinding.spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/helpers/sample.backbone.app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/selectboxConventionBindings.spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/selectorBinding.spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/CollectionBinder/sorting.spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/textareaConventionBinding.spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/spec/javascripts/textboxConventionBinding.spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/underscore-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Backbone.ModelBinder/lib/underscore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/backbone/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/backbone.validation/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/backbone.validation/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/models/Day.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/views/DayView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/collections/DaysCollection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/views/DaysCollectionView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/backbone/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/views/PopupView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/views/PurchaseManagerView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/models/PurchaseModel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/views/PurchaseView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/collections/PurchasesCollection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/views/PurchasesCollectionView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/backbone.validation/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/backbone/backbone-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/backbone/backbone-min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/backbone.validation/dist/backbone-validation-amd-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/backbone.validation/dist/backbone-validation-amd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/backbone.validation/src/backbone-validation-amd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/backbone.validation/dist/backbone-validation-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/backbone.validation/docs/backbone-validation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/backbone.validation/dist/backbone-validation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/backbone.validation/src/backbone-validation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/backbone/backbone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/backbone/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/backbone.validation/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/backbone.validation/buster.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/backbone.validation/docco/docco.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/backbone.validation/docs/docco.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/backbone.validation/docco/docco.jst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/backbone.validation/gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/backbone.validation/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/underscore-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/underscore-min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/underscore.js" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\AppView.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Day.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\DayView.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Days.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\PopupView.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Purchase.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\PurchaseView.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Purchases.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\PurchasesView.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\app.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\data\1.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\History.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\lib\application.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\lib\express.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\lib\middleware\init.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\lib\middleware\query.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\lib\request.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\lib\response.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\lib\router\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\lib\router\layer.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\lib\router\route.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\lib\utils.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\lib\view.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\accepts\HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\accepts\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\accepts\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\accepts\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\accepts\node_modules\mime-types\HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\accepts\node_modules\mime-types\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\accepts\node_modules\mime-types\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\accepts\node_modules\mime-types\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\accepts\node_modules\mime-types\node_modules\mime-db\HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\accepts\node_modules\mime-types\node_modules\mime-db\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\accepts\node_modules\mime-types\node_modules\mime-db\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\accepts\node_modules\mime-types\node_modules\mime-db\db.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\accepts\node_modules\mime-types\node_modules\mime-db\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\accepts\node_modules\mime-types\node_modules\mime-db\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\accepts\node_modules\mime-types\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\accepts\node_modules\negotiator\HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\accepts\node_modules\negotiator\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\accepts\node_modules\negotiator\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\accepts\node_modules\negotiator\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\accepts\node_modules\negotiator\lib\charset.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\accepts\node_modules\negotiator\lib\encoding.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\accepts\node_modules\negotiator\lib\language.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\accepts\node_modules\negotiator\lib\mediaType.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\accepts\node_modules\negotiator\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\accepts\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\array-flatten\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\array-flatten\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\array-flatten\array-flatten.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\array-flatten\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\content-disposition\HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\content-disposition\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\content-disposition\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\content-disposition\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\content-disposition\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\content-type\HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\content-type\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\content-type\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\content-type\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\content-type\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\cookie-signature\.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\cookie-signature\History.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\cookie-signature\Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\cookie-signature\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\cookie-signature\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\cookie\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\cookie\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\cookie\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\cookie\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\debug\.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\debug\.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\debug\History.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\debug\Makefile" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\debug\Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\debug\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\debug\browser.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\debug\component.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\debug\debug.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\debug\node.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\debug\node_modules\ms\.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\debug\node_modules\ms\History.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\debug\node_modules\ms\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\debug\node_modules\ms\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\debug\node_modules\ms\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\debug\node_modules\ms\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\debug\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\depd\History.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\depd\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\depd\Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\depd\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\depd\lib\compat\buffer-concat.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\depd\lib\compat\callsite-tostring.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\depd\lib\compat\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\depd\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\escape-html\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\escape-html\Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\escape-html\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\escape-html\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\etag\HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\etag\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\etag\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\etag\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\etag\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\finalhandler\HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\finalhandler\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\finalhandler\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\finalhandler\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\finalhandler\node_modules\unpipe\HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\finalhandler\node_modules\unpipe\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\finalhandler\node_modules\unpipe\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\finalhandler\node_modules\unpipe\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\finalhandler\node_modules\unpipe\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\finalhandler\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\fresh\HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\fresh\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\fresh\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\fresh\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\fresh\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\merge-descriptors\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\merge-descriptors\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\merge-descriptors\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\merge-descriptors\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\methods\HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\methods\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\methods\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\methods\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\methods\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\on-finished\HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\on-finished\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\on-finished\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\on-finished\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\on-finished\node_modules\ee-first\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\on-finished\node_modules\ee-first\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\on-finished\node_modules\ee-first\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\on-finished\node_modules\ee-first\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\on-finished\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\parseurl\.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\parseurl\HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\parseurl\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\parseurl\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\parseurl\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\parseurl\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\path-to-regexp\History.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\path-to-regexp\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\path-to-regexp\Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\path-to-regexp\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\path-to-regexp\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\proxy-addr\HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\proxy-addr\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\proxy-addr\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\proxy-addr\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\proxy-addr\node_modules\forwarded\HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\proxy-addr\node_modules\forwarded\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\proxy-addr\node_modules\forwarded\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\proxy-addr\node_modules\forwarded\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\proxy-addr\node_modules\forwarded\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\proxy-addr\node_modules\ipaddr.js\.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\proxy-addr\node_modules\ipaddr.js\Cakefile" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\proxy-addr\node_modules\ipaddr.js\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\proxy-addr\node_modules\ipaddr.js\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\proxy-addr\node_modules\ipaddr.js\ipaddr.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\proxy-addr\node_modules\ipaddr.js\lib\ipaddr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\proxy-addr\node_modules\ipaddr.js\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\proxy-addr\node_modules\ipaddr.js\src\ipaddr.coffee" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\proxy-addr\node_modules\ipaddr.js\test\ipaddr.test.coffee" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\proxy-addr\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\qs\.eslintignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\qs\.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\qs\.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\qs\CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\qs\CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\qs\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\qs\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\qs\bower.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\qs\lib\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\qs\lib\parse.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\qs\lib\stringify.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\qs\lib\utils.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\qs\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\qs\test\parse.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\qs\test\stringify.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\qs\test\utils.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\range-parser\HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\range-parser\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\range-parser\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\range-parser\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\range-parser\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\send\HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\send\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\send\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\send\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\send\node_modules\.bin\mime" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\send\node_modules\.bin\mime.cmd" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\send\node_modules\destroy\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\send\node_modules\destroy\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\send\node_modules\destroy\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\send\node_modules\http-errors\HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\send\node_modules\http-errors\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\send\node_modules\http-errors\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\send\node_modules\http-errors\node_modules\inherits\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\send\node_modules\http-errors\node_modules\inherits\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\send\node_modules\http-errors\node_modules\inherits\inherits.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\send\node_modules\http-errors\node_modules\inherits\inherits_browser.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\send\node_modules\http-errors\node_modules\inherits\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\send\node_modules\http-errors\node_modules\inherits\test.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\send\node_modules\http-errors\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\send\node_modules\mime\.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\send\node_modules\mime\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\send\node_modules\mime\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\send\node_modules\mime\build\build.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\send\node_modules\mime\build\test.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\send\node_modules\mime\cli.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\send\node_modules\mime\mime.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\send\node_modules\mime\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\send\node_modules\mime\types.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\send\node_modules\ms\.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\send\node_modules\ms\History.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\send\node_modules\ms\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\send\node_modules\ms\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\send\node_modules\ms\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\send\node_modules\ms\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\send\node_modules\statuses\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\send\node_modules\statuses\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\send\node_modules\statuses\codes.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\send\node_modules\statuses\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\send\node_modules\statuses\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\send\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\serve-static\HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\serve-static\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\serve-static\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\serve-static\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\serve-static\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\type-is\HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\type-is\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\type-is\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\type-is\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\type-is\node_modules\media-typer\HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\type-is\node_modules\media-typer\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\type-is\node_modules\media-typer\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\type-is\node_modules\media-typer\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\type-is\node_modules\media-typer\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\type-is\node_modules\mime-types\HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\type-is\node_modules\mime-types\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\type-is\node_modules\mime-types\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\type-is\node_modules\mime-types\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\type-is\node_modules\mime-types\node_modules\mime-db\HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\type-is\node_modules\mime-types\node_modules\mime-db\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\type-is\node_modules\mime-types\node_modules\mime-db\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\type-is\node_modules\mime-types\node_modules\mime-db\db.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\type-is\node_modules\mime-types\node_modules\mime-db\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\type-is\node_modules\mime-types\node_modules\mime-db\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\type-is\node_modules\mime-types\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\type-is\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\utils-merge\.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\utils-merge\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\utils-merge\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\utils-merge\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\utils-merge\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\vary\HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\vary\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\vary\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\vary\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\vary\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\path\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\path\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\path\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\path\path.js" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\library\backbone-mediator.js" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\library\backbone-min.js" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\library\css\bootstrap-theme.css" afterPath="" />
@@ -100,13 +334,14 @@
       <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\library\js\bootstrap.min.js" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\library\js\npm.js" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\library\underscore-min.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AppView.js" afterPath="$PROJECT_DIR$/AppView.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Purchase.js" afterPath="$PROJECT_DIR$/Purchase.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Purchases.js" afterPath="$PROJECT_DIR$/Purchases.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PurchasesView.js" afterPath="$PROJECT_DIR$/PurchasesView.js" />
+      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\main.js" afterPath="" />
+      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\1.js" afterPath="$PROJECT_DIR$/Resource/1.js" />
+      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\DayInfo.js" afterPath="$PROJECT_DIR$/js/models/DayInfo.js" />
+      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Server\node_modules\express\node_modules\send\node_modules\http-errors\LICENSE" afterPath="$PROJECT_DIR$/bower_components/backbone.validation/LICENSE.md" />
+      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.js" afterPath="$PROJECT_DIR$/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -129,101 +364,91 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="PurchasesCollectionView.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/views/PurchasesCollectionView.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="31.884615" vertical-offset="1203" max-vertical-offset="2074">
-              <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
+              <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Purchase.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Purchase.js">
+      <file leaf-file-name="PurchaseView.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/views/PurchaseView.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
-              <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
+              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/style.css">
+      <file leaf-file-name="PurchaseModel.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/models/PurchaseModel.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3417">
-              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
+              <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PopupView.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/views/PopupView.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.6368244" vertical-offset="0" max-vertical-offset="1292">
+              <caret line="57" column="29" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.js">
+        <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
-              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+              <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PopupView.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PopupView.js">
+      <file leaf-file-name="PurchaseManagerView.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/views/PurchaseManagerView.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
-              <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="697">
+              <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Purchases.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Purchases.js">
+      <file leaf-file-name="1.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Resource/1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="136">
-              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1241">
+              <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Days.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Days.js">
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
-              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="3298">
+              <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AppView.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AppView.js">
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bower_components/backbone.validation/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
-              <caret line="19" column="20" selection-start-line="18" selection-start-column="118" selection-end-line="19" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PurchasesView.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PurchasesView.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3411371" vertical-offset="0" max-vertical-offset="897">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CollectionBinder_Example1.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/Backbone.ModelBinder/examples/CollectionBinder_Example1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.074074" vertical-offset="459" max-vertical-offset="2125">
-              <caret line="59" column="26" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="26" />
+            <state vertical-scroll-proportion="-4.08" vertical-offset="2907" max-vertical-offset="19737">
+              <caret line="177" column="0" selection-start-line="177" selection-start-column="0" selection-end-line="177" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -242,14 +467,36 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/AppView.js" />
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/Purchases.js" />
         <option value="$PROJECT_DIR$/Purchase.js" />
-        <option value="$PROJECT_DIR$/main.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/PopupView.js" />
+        <option value="$PROJECT_DIR$/Days.js" />
         <option value="$PROJECT_DIR$/PurchasesView.js" />
+        <option value="$PROJECT_DIR$/Day.js" />
+        <option value="$PROJECT_DIR$/DayView.js" />
+        <option value="$PROJECT_DIR$/AppView.js" />
+        <option value="$PROJECT_DIR$/main.js" />
+        <option value="$PROJECT_DIR$/AppView1.js" />
+        <option value="$PROJECT_DIR$/DaysCollection.js" />
+        <option value="$PROJECT_DIR$/DaysCollectionView.js" />
+        <option value="$PROJECT_DIR$/js/views/PurchasesView.js" />
+        <option value="$PROJECT_DIR$/js/models/Purchases.js" />
+        <option value="$PROJECT_DIR$/js/models/Purchase.js" />
+        <option value="$PROJECT_DIR$/lib/Backbone.ModelBinder/examples/CollectionBinder_Example1.html" />
+        <option value="$PROJECT_DIR$/js/views/DaysCollectionView.js" />
+        <option value="$PROJECT_DIR$/js/views/DayView.js" />
+        <option value="$PROJECT_DIR$/js/views/PurchasesCollectionView.js" />
+        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/js/models/PopupModel.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/js/views/PurchaseView.js" />
+        <option value="$PROJECT_DIR$/js/views/PurchaseManagerView.js" />
+        <option value="$PROJECT_DIR$/Resource/1.js" />
+        <option value="$PROJECT_DIR$/js/models/PurchaseModel.js" />
+        <option value="$PROJECT_DIR$/js/views/PopupView.js" />
       </list>
     </option>
   </component>
@@ -285,7 +532,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -304,27 +550,93 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resource" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="recentsLimit" value="5" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\isokol\Downloads\HomeManager\Test" />
       <recent name="C:\Users\isokol\Downloads\HomeManager\Test\lib" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\isokol\Downloads\HomeManager\Test\js\collections" />
+      <recent name="C:\Users\isokol\Downloads\HomeManager\Test\Resource" />
+      <recent name="C:\Users\isokol\Downloads\HomeManager\Test\js\models" />
+      <recent name="C:\Users\isokol\Downloads\HomeManager\Test\css" />
+      <recent name="C:\Users\isokol\Downloads\HomeManager\Test\js\views" />
+    </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
+  <component name="RunManager" selected="Node.js.main.js">
+    <configuration default="false" name="main.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/iojs/node" path-to-js-file="main.js" working-dir="$PROJECT_DIR$/js">
+      <RunnerSettings RunnerId="NodeJS.run" />
+      <ConfigurationWrapper RunnerId="NodeJS.run" />
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -337,14 +649,12 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
-      <option name="cucumberJsArguments" />
-      <option name="executablePath" />
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
       <option name="filePath" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -354,13 +664,30 @@
       <setting name="preferredDebugBrowser" value="Chrome" />
       <method />
     </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
       <method />
     </configuration>
-    <list size="0" />
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.main.js" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.main.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
@@ -375,24 +702,43 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34702703" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.06810811" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973656" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32972974" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -411,9 +757,78 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/views/PurchasesCollectionView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="510">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Backbone.ModelBinder/examples/CollectionBinder_Example1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="212" max-vertical-offset="2125">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Backbone.ModelBinder/examples/CollectionBinder_Example2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="2516">
+          <caret line="7" column="71" selection-start-line="7" selection-start-column="71" selection-end-line="7" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/views/PurchaseView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="578">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="952">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="251" max-vertical-offset="1581">
+          <caret line="71" column="37" selection-start-line="71" selection-start-column="37" selection-end-line="71" selection-end-column="37" />
+          <folding>
+            <element signature="tag#script#10;tag#head#0;tag#html#0" expanded="false" />
+            <element signature="tag#script#11;tag#head#0;tag#html#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/views/DaysCollectionView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="527">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/views/DayView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/Backbone.ModelBinder/lib/jquery.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="884">
@@ -426,9 +841,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2312">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1433223280000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -452,96 +865,171 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1326">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1433223280000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/Backbone.ModelBinder/examples/CollectionBinder_Example2.html">
+    <entry file="file://$PROJECT_DIR$/js/models/Day.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.5223881" vertical-offset="1326" max-vertical-offset="2516">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.09476031" vertical-offset="0" max-vertical-offset="897">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/collections/DaysCollection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.059753954" vertical-offset="0" max-vertical-offset="569">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/Backbone.ModelBinder/examples/CollectionBinder_Example1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.074074" vertical-offset="459" max-vertical-offset="2125">
-          <caret line="59" column="26" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.5117925" vertical-offset="8" max-vertical-offset="2125">
+          <caret line="26" column="91" selection-start-line="26" selection-start-column="91" selection-end-line="26" selection-end-column="91" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
+    <entry file="file://$PROJECT_DIR$/lib/Backbone.ModelBinder/examples/CollectionBinder_Example2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3417">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        <state vertical-scroll-proportion="-0.65384614" vertical-offset="102" max-vertical-offset="2516">
+          <caret line="7" column="71" selection-start-line="7" selection-start-column="71" selection-end-line="7" selection-end-column="71" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.js">
+    <entry file="file://$PROJECT_DIR$/js/views/DayView.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
+          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AppView.js">
+    <entry file="file://$PROJECT_DIR$/js/views/DaysCollectionView.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
-          <caret line="19" column="20" selection-start-line="18" selection-start-column="118" selection-end-line="19" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Days.js">
+    <entry file="file://$PROJECT_DIR$/js/collections/PurchasesCollection.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="136">
+          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="31.884615" vertical-offset="1203" max-vertical-offset="2074">
-          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+        <state vertical-scroll-proportion="-9.807693" vertical-offset="816" max-vertical-offset="1768">
+          <caret line="97" column="22" selection-start-line="97" selection-start-column="22" selection-end-line="97" selection-end-column="22" />
+          <folding>
+            <element signature="tag#script#10;tag#head#0;tag#html#0" expanded="false" />
+            <element signature="tag#script#11;tag#head#0;tag#html#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Purchase.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/gulp/node_modules/vinyl-fs/node_modules/graceful-fs/graceful-fs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
-          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.33277026" vertical-offset="1401" max-vertical-offset="2771">
+          <caret line="95" column="9" selection-start-line="95" selection-start-column="9" selection-end-line="95" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Purchases.js">
+    <entry file="file://$PROJECT_DIR$/js/views/PurchasesCollectionView.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="136">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PopupView.js">
+    <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
-          <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PurchasesView.js">
+    <entry file="file://$PROJECT_DIR$/js/views/PurchaseManagerView.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3411371" vertical-offset="0" max-vertical-offset="897">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="697">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resource/1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1241">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="3298">
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/backbone.validation/dist/backbone-validation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.9982729" vertical-offset="867" max-vertical-offset="12138">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/backbone.validation/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.08" vertical-offset="2907" max-vertical-offset="19737">
+          <caret line="177" column="0" selection-start-line="177" selection-start-column="0" selection-end-line="177" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/views/PurchaseView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/models/PurchaseModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
+          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/views/PopupView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.6368244" vertical-offset="0" max-vertical-offset="1292">
+          <caret line="57" column="29" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
           <folding />
         </state>
       </provider>
