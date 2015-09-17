@@ -12,5 +12,9 @@ App.Views.DayInfoView = Backbone.View.extend({
         this.$el.html(this.template(this.model.toJSON()));
         this._modelBinder.bind(this.model, this.el);
         return this;
+    },
+
+    close: function () {
+        this._modelBinder.unbind();
     }
 });

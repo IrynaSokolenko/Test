@@ -19,6 +19,10 @@ App.Views.DayView = Backbone.View.extend({
 
     renderDayPurchases: function () {
         Backbone.Mediator.pub('ChangeDayPurchases', this.model);
+    },
+
+    close: function () {
+        this._modelBinder.unbind();
     }
 });
 

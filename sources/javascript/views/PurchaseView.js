@@ -27,5 +27,9 @@ App.Views.PurchaseView = Backbone.View.extend({
     deletePurchase: function (event) {
         event.stopPropagation();
         Backbone.Mediator.pub('deletePurchase', this.model);
+    },
+
+    close: function () {
+        this._modelBinder.unbind();
     }
 });

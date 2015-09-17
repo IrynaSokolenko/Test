@@ -2,43 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b574741d-e845-427b-a73c-b4001db1a39b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/Backbone.CollectionBinder.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/Backbone.ModelBinder.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sources/javascript/views/DayInfoView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sources/templates/day-label-template.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sources/templates/day-template.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sources/templates/popup-template.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sources/templates/purchase-manager-template.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sources/templates/purchase-raw-template.ejs" />
-      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\app.js" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\bower_components\backbone.validation\LICENSE.md" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\bower_components\backbone.validation\bower.json" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\bower_components\backbone.validation\docco\docco.css" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\bower_components\backbone.validation\docco\docco.jst" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\bower_components\backbone.validation\gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\js\models\DayInfo.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\Backbone.CollectionBinder.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\Backbone.ModelBinder.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\backbone-mediator.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\backbone-min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\css\bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\css\bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\css\bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\css\bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\css\bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\css\bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\fonts\glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\fonts\glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\fonts\glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\fonts\glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\js\bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\js\bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\js\npm.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\underscore-min.js" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\library\backbone-mediator.js" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\library\backbone-min.js" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\library\css\bootstrap-theme.css" afterPath="" />
@@ -57,134 +25,12 @@
       <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\library\js\bootstrap.min.js" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\library\js\npm.js" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\library\underscore-min.js" afterPath="" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\Resource\1.js" afterPath="$PROJECT_DIR$/sources/javascript/1.js" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\css\style.css" afterPath="$PROJECT_DIR$/sources/css/style.css" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\img\close-button.gif" afterPath="$PROJECT_DIR$/sources/img/close-button.gif" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\img\close_button.png" afterPath="$PROJECT_DIR$/sources/img/close_button.png" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\index.html" afterPath="$PROJECT_DIR$/sources/index.html" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\js\collections\DaysCollection.js" afterPath="$PROJECT_DIR$/sources/javascript/collections/DaysCollection.js" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\js\collections\PurchasesCollection.js" afterPath="$PROJECT_DIR$/sources/javascript/collections/PurchasesCollection.js" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\js\main.js" afterPath="$PROJECT_DIR$/sources/javascript/main.js" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\js\models\Day.js" afterPath="$PROJECT_DIR$/sources/javascript/models/Day.js" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\js\models\PurchaseModel.js" afterPath="$PROJECT_DIR$/sources/javascript/models/PurchaseModel.js" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\js\views\DayView.js" afterPath="$PROJECT_DIR$/sources/javascript/views/DayView.js" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\js\views\DaysCollectionView.js" afterPath="$PROJECT_DIR$/sources/javascript/views/DaysCollectionView.js" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\js\views\PopupView.js" afterPath="$PROJECT_DIR$/sources/javascript/views/PopupView.js" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\js\views\PurchaseManagerView.js" afterPath="$PROJECT_DIR$/sources/javascript/views/PurchaseManagerView.js" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\js\views\PurchaseView.js" afterPath="$PROJECT_DIR$/sources/javascript/views/PurchaseView.js" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\js\views\PurchasesCollectionView.js" afterPath="$PROJECT_DIR$/sources/javascript/views/PurchasesCollectionView.js" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\Backbone.CollectionBinder.js" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/Backbone.CollectionBinder.js" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\Backbone.ModelBinder.js" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/Backbone.ModelBinder.js" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\README.md" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/README.md" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\component.json" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/component.json" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\examples\CollectionBinder_Example1.html" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/examples/CollectionBinder_Example1.html" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\examples\CollectionBinder_Example2.html" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/examples/CollectionBinder_Example2.html" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\examples\CollectionBinder_sorted.html" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/examples/CollectionBinder_sorted.html" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\examples\Example1.html" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/examples/Example1.html" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\examples\Example2.html" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/examples/Example2.html" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\examples\Example3.html" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/examples/Example3.html" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\examples\Example_BindToImageSrc.html" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/examples/Example_BindToImageSrc.html" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\examples\Example_ContentEditable.html" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/examples/Example_ContentEditable.html" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\lib\backbone.js" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/lib/backbone.js" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\lib\jquery.js" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/lib/jquery.js" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\lib\underscore.js" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/lib/underscore.js" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\package.json" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/package.json" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\sandbox\ConvertDataBindToModelBinder.html" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/sandbox/ConvertDataBindToModelBinder.html" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\sandbox\Example_NestedAttributes.html" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/sandbox/Example_NestedAttributes.html" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\sandbox\deep-model.js" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/sandbox/deep-model.js" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\spec\SpecRunner.html" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/spec/SpecRunner.html" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\spec\javascripts\CollectionBinder\sorting.spec.js" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/spec/javascripts/CollectionBinder/sorting.spec.js" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\spec\javascripts\checkboxConventionBindings.spec.js" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/spec/javascripts/checkboxConventionBindings.spec.js" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\spec\javascripts\configurableBindingAttributes.spec.js" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/spec/javascripts/configurableBindingAttributes.spec.js" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\spec\javascripts\configureAllBindingAttributes.spec.js" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/spec/javascripts/configureAllBindingAttributes.spec.js" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\spec\javascripts\contentEditableSpec.js" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/spec/javascripts/contentEditableSpec.js" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\spec\javascripts\coreBinder.spec.js" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/spec/javascripts/coreBinder.spec.js" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\spec\javascripts\cssBindingSpec.js" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/spec/javascripts/cssBindingSpec.js" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\spec\javascripts\customConvention.spec.js" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/spec/javascripts/customConvention.spec.js" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\spec\javascripts\defaultBindings.spec.js" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/spec/javascripts/defaultBindings.spec.js" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\spec\javascripts\globalConfiguraAllBindingAttributes.spec.js" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/spec/javascripts/globalConfiguraAllBindingAttributes.spec.js" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\spec\javascripts\globalConfigurableBindingAttributes.spec.js" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/spec/javascripts/globalConfigurableBindingAttributes.spec.js" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\spec\javascripts\helpers\SpecHelper.js" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/spec/javascripts/helpers/SpecHelper.js" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\spec\javascripts\helpers\jasmine-jquery.js" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/spec/javascripts/helpers/jasmine-jquery.js" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\spec\javascripts\helpers\sample.backbone.app.js" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/spec/javascripts/helpers/sample.backbone.app.js" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\spec\javascripts\html5inputConventionBinding.spec.js" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/spec/javascripts/html5inputConventionBinding.spec.js" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\spec\javascripts\modelUnbinding.spec.js" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/spec/javascripts/modelUnbinding.spec.js" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\spec\javascripts\nestedModelBinding.spec.js" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/spec/javascripts/nestedModelBinding.spec.js" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\spec\javascripts\oneElementToMultipleAttributes.spec.js" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/spec/javascripts/oneElementToMultipleAttributes.spec.js" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\spec\javascripts\radioButtonConventionBinding.spec.js" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/spec/javascripts/radioButtonConventionBinding.spec.js" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\spec\javascripts\selectboxConventionBindings.spec.js" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/spec/javascripts/selectboxConventionBindings.spec.js" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\spec\javascripts\selectorBinding.spec.js" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/spec/javascripts/selectorBinding.spec.js" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\spec\javascripts\support\jasmine-standalone\jasmine-html.js" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/spec/javascripts/support/jasmine-standalone/jasmine-html.js" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\spec\javascripts\support\jasmine-standalone\jasmine.css" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/spec/javascripts/support/jasmine-standalone/jasmine.css" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\spec\javascripts\support\jasmine-standalone\jasmine.js" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/spec/javascripts/support/jasmine-standalone/jasmine.js" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\spec\javascripts\support\jasmine.yml" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/spec/javascripts/support/jasmine.yml" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\spec\javascripts\support\jasmine_config.rb" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/spec/javascripts/support/jasmine_config.rb" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\spec\javascripts\support\jasmine_runner.rb" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/spec/javascripts/support/jasmine_runner.rb" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\spec\javascripts\textareaConventionBinding.spec.js" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/spec/javascripts/textareaConventionBinding.spec.js" />
-      <change type="MOVED" beforePath="C:\Users\isokol\Downloads\HomeManager\Test\lib\Backbone.ModelBinder\spec\javascripts\textboxConventionBinding.spec.js" afterPath="$PROJECT_DIR$/bower_components/backbone.modelBinder/spec/javascripts/textboxConventionBinding.spec.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/backbone/.bower.json" afterPath="$PROJECT_DIR$/bower_components/backbone/.bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/backbone.validation/.bower.json" afterPath="$PROJECT_DIR$/bower_components/backbone.validation/.bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/underscore/.bower.json" afterPath="$PROJECT_DIR$/bower_components/underscore/.bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/stream-http/node_modules/object-keys/.eslintrc" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/stream-http/node_modules/object-keys/.eslintrc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/stream-http/node_modules/object-keys/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/stream-http/node_modules/object-keys/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/stream-http/.zuul.yml" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/stream-http/.zuul.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/stream-http/node_modules/object-keys/CHANGELOG.md" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/stream-http/node_modules/object-keys/CHANGELOG.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/backbone.validation/README.md" afterPath="$PROJECT_DIR$/bower_components/backbone.validation/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/README.md" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/stream-http/README.md" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/stream-http/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/backbone.validation/dist/backbone-validation-amd-min.js" afterPath="$PROJECT_DIR$/bower_components/backbone.validation/dist/backbone-validation-amd-min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/backbone.validation/dist/backbone-validation-amd.js" afterPath="$PROJECT_DIR$/bower_components/backbone.validation/dist/backbone-validation-amd.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/backbone.validation/dist/backbone-validation-min.js" afterPath="$PROJECT_DIR$/bower_components/backbone.validation/dist/backbone-validation-min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/backbone.validation/docs/backbone-validation.html" afterPath="$PROJECT_DIR$/bower_components/backbone.validation/docs/backbone-validation.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/backbone.validation/dist/backbone-validation.js" afterPath="$PROJECT_DIR$/bower_components/backbone.validation/dist/backbone-validation.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/backbone.validation/src/backbone-validation.js" afterPath="$PROJECT_DIR$/bower_components/backbone.validation/src/backbone-validation.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/test/base64.js" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/test/base64.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/test/basic.js" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/test/basic.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/backbone.validation/buster.js" afterPath="$PROJECT_DIR$/bower_components/backbone.validation/buster.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/stream-http/lib/capability.js" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/stream-http/lib/capability.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/test/compare.js" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/test/compare.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/test/constructor.js" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/test/constructor.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/test/deprecated.js" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/test/deprecated.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/asn1.js/test/der-decode-test.js" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/asn1.js/test/der-decode-test.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/asn1.js/test/der-decode-test.js" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/asn1.js/test/der-decode-test.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/asn1.js/lib/asn1/decoders/der.js" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/asn1.js/lib/asn1/decoders/der.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/asn1.js/lib/asn1/decoders/der.js" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/asn1.js/lib/asn1/decoders/der.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/backbone.validation/docs/docco.css" afterPath="$PROJECT_DIR$/bower_components/backbone.validation/docs/docco.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/bin/download-node-tests.js" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/bin/download-node-tests.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/test/from-string.js" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/test/from-string.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/stream-http/test/node/http-browserify.js" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/stream-http/test/node/http-browserify.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/index.js" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/stream-http/index.js" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/stream-http/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/stream-http/node_modules/object-keys/index.js" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/stream-http/node_modules/object-keys/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/test/methods.js" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/test/methods.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/backbone.validation/package.json" afterPath="$PROJECT_DIR$/bower_components/backbone.validation/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/package.json" afterPath="$PROJECT_DIR$/node_modules/browserify/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/browserify-zlib/node_modules/pako/package.json" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/browserify-zlib/node_modules/pako/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/package.json" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/asn1.js/package.json" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/crypto-browserify/node_modules/browserify-sign/node_modules/parse-asn1/node_modules/asn1.js/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/crypto-browserify/node_modules/create-hash/node_modules/sha.js/package.json" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/crypto-browserify/node_modules/create-hash/node_modules/sha.js/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/asn1.js/package.json" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/crypto-browserify/node_modules/public-encrypt/node_modules/parse-asn1/node_modules/asn1.js/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/stream-http/package.json" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/stream-http/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/stream-http/node_modules/builtin-status-codes/package.json" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/stream-http/node_modules/builtin-status-codes/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/stream-http/node_modules/object-keys/package.json" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/stream-http/node_modules/object-keys/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/gulp/package.json" afterPath="$PROJECT_DIR$/node_modules/gulp/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/xtend/package.json" afterPath="$PROJECT_DIR$/node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/xtend/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/xtend/package.json" afterPath="$PROJECT_DIR$/node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/node_modules/xtend/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/stream-http/lib/request.js" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/stream-http/lib/request.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/stream-http/lib/response.js" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/stream-http/lib/response.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/test/slice.js" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/test/slice.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/test/static.js" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/test/static.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/test/node-es6/test-buffer-arraybuffer.js" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/test/node-es6/test-buffer-arraybuffer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/test/node/test-buffer-ascii.js" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/test/node/test-buffer-ascii.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/test/node/test-buffer-bytelength.js" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/test/node/test-buffer-bytelength.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/test/node/test-buffer-concat.js" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/test/node/test-buffer-concat.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/test/node/test-buffer-indexof.js" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/test/node/test-buffer-indexof.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/test/node/test-buffer-inspect.js" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/test/node/test-buffer-inspect.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/test/node-es6/test-buffer-iterator.js" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/test/node-es6/test-buffer-iterator.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/test/node/test-buffer.js" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/test/node/test-buffer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/test/to-string.js" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/test/to-string.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sources/javascript/views/DayInfoView.js" afterPath="$PROJECT_DIR$/sources/javascript/views/DayInfoView.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sources/javascript/views/DayView.js" afterPath="$PROJECT_DIR$/sources/javascript/views/DayView.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sources/javascript/views/DaysCollectionView.js" afterPath="$PROJECT_DIR$/sources/javascript/views/DaysCollectionView.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sources/javascript/views/PurchaseView.js" afterPath="$PROJECT_DIR$/sources/javascript/views/PurchaseView.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sources/javascript/views/PurchasesCollectionView.js" afterPath="$PROJECT_DIR$/sources/javascript/views/PurchasesCollectionView.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/test/write.js" afterPath="$PROJECT_DIR$/node_modules/browserify/node_modules/buffer/test/write.js" />
     </list>
     <ignored path="Test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -207,11 +53,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="PurchasesCollectionView.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sources/javascript/views/PurchasesCollectionView.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="714">
+              <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PurchaseManagerView.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sources/javascript/views/PurchaseManagerView.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="179" max-vertical-offset="799">
+              <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="PurchaseView.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sources/javascript/views/PurchaseView.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
+              <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -230,48 +96,28 @@
       <file leaf-file-name="PopupView.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sources/javascript/views/PopupView.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="649" max-vertical-offset="1649">
-              <caret line="42" column="6" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="1006" max-vertical-offset="1649">
+              <caret line="88" column="0" selection-start-line="88" selection-start-column="0" selection-end-line="90" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sources/css/style.css">
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sources/javascript/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.84136856" vertical-offset="2791" max-vertical-offset="3434">
-              <caret line="196" column="0" selection-start-line="196" selection-start-column="0" selection-end-line="196" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="popup-template.ejs" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sources/templates/popup-template.ejs">
+      <file leaf-file-name="1.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sources/javascript/1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.653846" vertical-offset="216" max-vertical-offset="833">
-              <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sources/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.384615" vertical-offset="0" max-vertical-offset="782">
-              <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="purchase-raw-template.ejs" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sources/templates/purchase-raw-template.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="136">
-              <caret line="1" column="130" selection-start-line="1" selection-start-column="130" selection-end-line="1" selection-end-column="140" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="548" max-vertical-offset="1360">
+              <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -280,28 +126,28 @@
       <file leaf-file-name="DaysCollectionView.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sources/javascript/views/DaysCollectionView.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
-              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gulpfile.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <file leaf-file-name="DayInfoView.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sources/javascript/views/DayInfoView.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
-              <caret line="5" column="69" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="69" />
+            <state vertical-scroll-proportion="0.5023328" vertical-offset="0" max-vertical-offset="643">
+              <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/js/script.js">
+      <file leaf-file-name="DayView.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sources/javascript/views/DayView.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
-              <caret line="0" column="23" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -354,23 +200,23 @@
         <option value="$PROJECT_DIR$/sources/templates/day-template.html" />
         <option value="$PROJECT_DIR$/sources/templates/purchase-raw-template.html" />
         <option value="$PROJECT_DIR$/sources/templates/popup-template.html" />
-        <option value="$PROJECT_DIR$/sources/javascript/views/PurchaseManagerView.js" />
         <option value="$PROJECT_DIR$/sources/templates/purchase-manager-template.html" />
         <option value="$PROJECT_DIR$/sources/templates/day-label-template.html" />
         <option value="$PROJECT_DIR$/sources/templates/day-label-template.ejs" />
         <option value="$PROJECT_DIR$/sources/javascript/views/DayInfo.js" />
         <option value="$PROJECT_DIR$/public/scripts/main.js" />
-        <option value="$PROJECT_DIR$/sources/javascript/views/DaysCollectionView.js" />
-        <option value="$PROJECT_DIR$/sources/javascript/views/DayView.js" />
-        <option value="$PROJECT_DIR$/sources/javascript/views/PurchasesCollectionView.js" />
-        <option value="$PROJECT_DIR$/sources/javascript/views/DayInfoView.js" />
         <option value="$PROJECT_DIR$/sources/javascript/views/PopupView.js" />
         <option value="$PROJECT_DIR$/sources/templates/popup-template.ejs" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/sources/index.html" />
         <option value="$PROJECT_DIR$/sources/templates/purchase-raw-template.ejs" />
-        <option value="$PROJECT_DIR$/sources/javascript/views/PurchaseView.js" />
         <option value="$PROJECT_DIR$/sources/css/style.css" />
+        <option value="$PROJECT_DIR$/sources/javascript/views/PurchaseView.js" />
+        <option value="$PROJECT_DIR$/sources/javascript/views/DaysCollectionView.js" />
+        <option value="$PROJECT_DIR$/sources/javascript/views/PurchasesCollectionView.js" />
+        <option value="$PROJECT_DIR$/sources/javascript/views/PurchaseManagerView.js" />
+        <option value="$PROJECT_DIR$/sources/javascript/views/DayView.js" />
+        <option value="$PROJECT_DIR$/sources/javascript/views/DayInfoView.js" />
       </list>
     </option>
   </component>
@@ -453,6 +299,46 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -593,10 +479,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2745946" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2745946" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34702703" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -828,14 +714,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sources/javascript/1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="548" max-vertical-offset="1360">
-          <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sources/templates/purchase-manager-template.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="697">
@@ -881,74 +759,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sources/javascript/views/DayView.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
-          <caret line="15" column="75" selection-start-line="15" selection-start-column="75" selection-end-line="15" selection-end-column="75" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sources/javascript/views/DayInfoView.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sources/javascript/views/PurchasesCollectionView.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34320322" vertical-offset="0" max-vertical-offset="743">
-          <caret line="15" column="64" selection-start-line="15" selection-start-column="64" selection-end-line="15" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sources/javascript/views/PurchaseManagerView.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6005222" vertical-offset="33" max-vertical-offset="799">
-          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sources/javascript/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sources/javascript/views/PopupView.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="649" max-vertical-offset="1649">
-          <caret line="42" column="6" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sources/javascript/models/PurchaseModel.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sources/templates/popup-template.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-10.653846" vertical-offset="216" max-vertical-offset="833">
           <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sources/javascript/views/DaysCollectionView.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -985,18 +799,90 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sources/javascript/views/PurchaseView.js">
+    <entry file="file://$PROJECT_DIR$/sources/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2791" max-vertical-offset="3434">
+          <caret line="191" column="17" selection-start-line="191" selection-start-column="17" selection-end-line="191" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sources/javascript/models/PurchaseModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sources/javascript/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sources/css/style.css">
+    <entry file="file://$PROJECT_DIR$/sources/javascript/1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.84136856" vertical-offset="2791" max-vertical-offset="3434">
-          <caret line="196" column="0" selection-start-line="196" selection-start-column="0" selection-end-line="196" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="548" max-vertical-offset="1360">
+          <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sources/javascript/views/PurchaseView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
+          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sources/javascript/views/PurchasesCollectionView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="714">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sources/javascript/views/PurchaseManagerView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="179" max-vertical-offset="799">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sources/javascript/views/PopupView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1006" max-vertical-offset="1649">
+          <caret line="88" column="0" selection-start-line="88" selection-start-column="0" selection-end-line="90" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sources/javascript/views/DayView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sources/javascript/views/DaysCollectionView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sources/javascript/views/DayInfoView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5023328" vertical-offset="0" max-vertical-offset="643">
+          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
           <folding />
         </state>
       </provider>

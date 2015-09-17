@@ -31,6 +31,6 @@ App.Views.PurchasesCollectionView = Backbone.View.extend({
     },
 
     close: function () {
-
+        this._modelBinder.unbind();
     }
 });

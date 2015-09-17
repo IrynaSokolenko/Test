@@ -17,5 +17,9 @@ App.Views.DaysCollectionView = Backbone.View.extend({
     render: function(){
         this._collectionBinder.bind(this.collection, this.$el);
         return this;
+    },
+
+    close: function () {
+        this._modelBinder.unbind();
     }
 });
