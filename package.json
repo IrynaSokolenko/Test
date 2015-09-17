@@ -1,0 +1,31 @@
+{
+  "name": "purchase-manager",
+  "version": "1.0.0",
+  "description": "Test task",
+  "main": "index.html",
+  "dependencies": {
+    "browserify": "^11.1.0",
+    "concat": "^1.0.0",
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "gulp-ejs-template": "^0.2.0",
+    "gulp-uglify": "^1.4.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.6"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrynaSokolenko/Test.git"
+  },
+  "author": "IrynaSokolenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IrynaSokolenko/Test/issues"
+  },
+  "homepage": "https://github.com/IrynaSokolenko/Test#readme"
+}

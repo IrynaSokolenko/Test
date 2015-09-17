@@ -1,0 +1,23 @@
+{
+  "name": "PurchaseManager",
+  "version": "0.1.0",
+  "authors": [
+    "IrynaSokolenko <isokol@softserveinc.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "Backbone-Mediator": "*",
+    "backbone": "~1.2.3",
+    "backbone.modelBinder": "Backbone.ModelBinder#~1.1.0",
+    "backbone.validation": "~0.7.1",
+    "bootstrap": "~3.3.5",
+    "ejs": "~1.0.0",
+    "jquery": "~2.1.4",
+    "underscore": "~1.8.3"
+  }
+}

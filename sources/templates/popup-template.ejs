@@ -1,0 +1,43 @@
+
+    <div class = "popup-front">
+        <div class="title details-header">
+            <h1> Add Purchase </h1>
+        </div>
+
+        <div class="popup-close"></div>
+
+        <div class = "content" >
+            <div class = "col-md-4">
+                <label for = "purchaseName">Purchase name</label>
+                <input class = "form-control" placeholder = "Enter purchase name" id = "purchaseName" name = "purchaseName" />
+                <span class = "warning" data-name = "purchaseName">This field is required</span>
+            </div>
+
+            <div class = "col-md-4">
+                <label>Store name</label>
+                <input class = "form-control" placeholder = "Enter store name" id = "storeName" name = "storeName" />
+                <span class = "warning" data-name = "storeName">This field is required</span>
+            </div>
+
+            <div class = "col-md-4">
+                <label>Price</label>
+                <div class="input-group">
+                    <span class="input-group-addon">$</span>
+                    <input class = "form-control" placeholder = "0.00" id = "price" name = "price" />
+
+                </div>
+                <span class = "warning" data-name = "price">Incorrect value</span>
+            </div>
+
+            <div class = "col-md-12 description">Description
+                <textarea class = "col-md-12" placeholder = "Enter purchase description" id = "description" name = "description" ></textarea>
+                <span class = "warning pull-right" data-name = "description">This field is required</span>
+            </div>
+        </div>
+        <div class = "footer details-footer col-md-12">
+            <button class = "btn btn-primary" id = "add-popup">Add</button>
+            <button class = "btn btn-primary" id = "save-popup">Save</button>
+            <button class = "btn btn-default" id = "cancel-popup">Cancel</button>
+            <button class = "btn btn-warning pull-right" id = "remove">Remove</button>
+        </div>
+    </div>
